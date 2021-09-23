@@ -1,6 +1,6 @@
 # Customized Iteration and Sampling Attack
 
-Implementation of paper [Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling].
+Implementation of paper "Query-efficient Black-box Adversarial Attack with Customized Iteration and Sampling".
 
 <img src='/framework.png' width=900/>
 
