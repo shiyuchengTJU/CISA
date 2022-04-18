@@ -1,0 +1,7 @@
+dataset:
+  dataset_dir: ~/.torch/datasets/CIFAR10
+model:
+  name: resnet
+train:
+  output_dir: experiments/cifar10/resnet/exp00
+  checkpoint_period: 100
